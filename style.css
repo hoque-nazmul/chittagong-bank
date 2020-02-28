@@ -1,0 +1,28 @@
+#login h2 {
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+.login-area {
+    box-shadow: 10px 10px 30px gray;
+    padding: 50px 40px;
+    border-radius: 10px;
+}
+
+.login-area h3 {
+    font-size: 26px;
+    font-weight: 500;
+    padding-bottom: 5px;
+}
+
+.login-area input {
+    height: 42px;
+    font-size: 18px;
+}
+
+.btn {
+    font-weight: 500;
+    padding: 8px 28px;
+}
