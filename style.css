@@ -1,4 +1,4 @@
-#login h2 {
+#login-section h2 {
     font-size: 40px;
     margin-top: 80px;
     margin-bottom: 50px;
@@ -25,4 +25,27 @@
 .btn {
     font-weight: 500;
     padding: 8px 28px;
+}
+
+#transaction-area {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.status {
+    padding: 30px 30px;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.deposit {
+    background: #6A5ACD;
+}
+
+.withdraw {
+    background-color: #FFA07A;
+}
+
+.balance {
+    background-color: #FFA500;
 }
